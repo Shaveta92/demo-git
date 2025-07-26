@@ -51,6 +51,8 @@ public class AddPlaceGoogle {
 	 System.out.println("by from x user");
 	 System.out.println("git demo develop branch code");
 	 System.out.println("git demo develop branch code from github");
+	 System.out.println("git demo develop branch code from github2");
+
 
 }
 
