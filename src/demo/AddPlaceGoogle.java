@@ -46,6 +46,8 @@ public class AddPlaceGoogle {
 		String rsponse=rs.when().post("/maps/api/place/add/json")
 	.then().spec(resspec).extract().response().asString();
 	 System.out.println(rsponse);
+	 System.out.println("demo-git master clone India based person add");
+	 System.out.println("git commands");
 }
 
 }
